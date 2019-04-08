@@ -25,3 +25,8 @@
     outline: none;
     background-color: #ccc;
 }
+
+.InValid {
+    border: 1px solid red;
+    background-color: pink;
+}
